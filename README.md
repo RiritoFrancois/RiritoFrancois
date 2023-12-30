@@ -9,6 +9,10 @@ Enjoy to using my Projects for Future Programs!!!(Maybe...)
 
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiritoNinigaya&layout=compact&theme=dark&bg_color=72751d&show_icons=true&hide_border=false&custom_title=Most%20Used%20Languages%20Over%20All" alt="Top Langs"></img>
 
+## My Github Metrics
+
+![Metrics](https://metrics.lecoq.io/RiritoNinigaya)
+
 ## Donation
 
 Soon!!!
