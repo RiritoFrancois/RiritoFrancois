@@ -3,9 +3,9 @@ I'm Ririto Ninigaya and I'm Also Coding in C++, C#, Ren'Py, Python, HTML, CSS an
 
 Enjoy to using my Projects for Future Programs!!!(Maybe...)
 
-# Github Metrics
+# Stats
 
-[![Metrics](https://raw.githubusercontent.com/RiritoNinigaya/RiritoNinigaya/ci-generated-metrics/github-metrics.svg)](https://github.com/RiritoNinigaya)
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=fah-OwO&hide=contribs,prs,issues&theme=prussian&bg_color=79139c&show_icons=true&hide_border=true&include_all_commits=true)" alt="RiritoNinigaya's Github Stats"></img>
 
 
 ## Donation
