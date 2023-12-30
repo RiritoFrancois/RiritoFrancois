@@ -5,8 +5,9 @@ Enjoy to using my Projects for Future Programs!!!(Maybe...)
 
 # Stats
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=RiritoNinigaya&hide=contribs,prs,issues&theme=prussian&bg_color=79139c&show_icons=true&hide_border=true&include_all_commits=true)" alt="RiritoNinigaya's Github Stats"></img>
+<img width="65%" src="https://github-readme-stats.vercel.app/api?username=RiritoNinigaya&hide=contribs,prs,issues&theme=prussian&bg_color=79139c&show_icons=true&hide_border=true&include_all_commits=true)" alt="RiritoNinigaya's Github Stats"></img>
 
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiritoNinigaya&layout=compact&theme=prussian&bg_color=f8ff2b&show_icons=true&hide_border=false&custom_title=Most%20Used%20Languages%20Over%20All" alt="Top Langs"></img>
 
 ## Donation
 
