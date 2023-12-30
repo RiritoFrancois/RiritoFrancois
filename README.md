@@ -11,7 +11,7 @@ Enjoy to using my Projects for Future Programs!!!(Maybe...)
 
 ## My Github Metrics
 
-![Metrics](https://metrics.lecoq.io/RiritoNinigaya)
+![Metrics](https://metrics.lecoq.io/insights/RiritoNinigaya)
 
 ## Donation
 
