@@ -22,13 +22,13 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ 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 }}
 
           # Options
           user: RiritoNinigaya
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Shanghai
+          config_timezone: Europe/Kyiv
           plugin_traffic: yes
           plugin_gists: yes
           plugin_lines: yes
