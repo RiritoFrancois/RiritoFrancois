@@ -7,11 +7,6 @@ Enjoy to using my Projects for Future Programs!!!(Maybe...)
 
 <img width="65%" src="https://github-readme-stats.vercel.app/api?username=RiritoNinigaya&hide=contribs,prs,issues&theme=prussian&bg_color=79139c&show_icons=true&hide_border=true&include_all_commits=true)" alt="RiritoNinigaya's Github Stats"></img>
 
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RiritoNinigaya&hide_progress=false&layout=compact&theme=dracula&bg_color=06CA8F&title_color=C08C8F&text_color=69ff66&icon_color=C08C8F&border_color=fcb8bc&html=0a0ca3/>
-</div>
-
 ## My Github Metrics
 
 <div align="center">
