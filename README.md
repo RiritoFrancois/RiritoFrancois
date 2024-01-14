@@ -17,4 +17,4 @@ I'm Ririto Ninigaya and I'm Also Coding in C++, C#, Ren'Py, Python, HTML, CSS an
 
 ## Donation
 
-Soon!!!
+[SubscribeStar](https://www.subscribestar.com/riritofrancois)
