@@ -7,14 +7,7 @@ I'm Ririto Ninigaya and I'm Also Coding in C++, C#, Ren'Py, Python, HTML, CSS an
 
 ## My Github Metrics
 
-<div align="center">
-<table>
-   <tr>
-     <td rowspan=2> <img src="https://github.com/RiritoNinigaya/RiritoNinigaya/blob/main/github-metrics.svg" /> </td>
-   </tr>
- </table>
-</div>
-
+[![Metrics](https://raw.githubusercontent.com/RiritoFrancois/RiritoFrancois/ci-generated-metrics/github-metrics.svg)](https://github.com/RiritoFrancois)
 ## Donation
 
 [SubscribeStar](https://www.subscribestar.com/riritofrancois)
