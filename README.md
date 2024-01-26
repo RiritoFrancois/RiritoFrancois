@@ -1,3 +1,10 @@
+<div align="center">
+ <img src="https://github.com/RiritoNinigaya/RiritoNinigaya/github-contribution-grid-snake.svg" />
+ <table>
+
+ </table>
+</div>
+
 ### Hello 👋
 I'm Ririto Ninigaya and I'm Also Coding in C++, C#, Ren'Py, Python, HTML, CSS and SCSS...
 
