@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/RiritoFrancois/RiritoFrancois/github-contribution-grid-snake.svg" />
+ <img src="https://github.com/RiritoFrancois/RiritoFrancois/blob/main/github-contribution-grid-snake.svg" />
  <table>
 
  </table>
