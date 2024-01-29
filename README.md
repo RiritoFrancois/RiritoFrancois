@@ -6,7 +6,8 @@
 </div>
 
 ### Hello 👋
-I'm Ririto Francois and I'm Also Coding in C++, C#, Ren'Py, Python, HTML, CSS and SCSS...
+I'm Ririto Francois and I'm Also Coding in C++, C#, Ren'Py, Python, HTML, JavaScript, TypeScript, CSS and SCSS...
+- I'm currently Learning Java, GoLang and Rust
 
 # Stats
 
