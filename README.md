@@ -11,7 +11,7 @@ I'm Ririto Francois and I'm Also Coding in C++, C#, Ren'Py, Python, HTML, JavaSc
 
 # Stats
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api?username=RiritoFrancois&hide=contribs,prs,issues&theme=prussian&bg_color=79139c&show_icons=true&hide_border=false&include_all_commits=true&border_color=aca1ff)" alt="RiritoFrancois's Github Stats"></img>
+<img width="65%" src="https://github-readme-stats.vercel.app/api?username=RiritoNinigaya&hide=contribs,prs,issues&theme=prussian&bg_color=79139c&show_icons=true&hide_border=false&include_all_commits=true&border_color=aca1ff)" alt="RiritoFrancois's Github Stats"></img>
 
 ## My Github Metrics
 
