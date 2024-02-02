@@ -16,6 +16,7 @@ I'm Ririto Francois and I'm Also Coding in C++, C#, Ren'Py, Python, HTML, JavaSc
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiritoNinigaya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 ## My Github Metrics
 
 [![Metrics](https://raw.githubusercontent.com/RiritoFrancois/RiritoFrancois/ci-generated-metrics/github-metrics.svg)](https://github.com/RiritoFrancois)
