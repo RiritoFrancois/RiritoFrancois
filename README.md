@@ -27,3 +27,5 @@ I'm Ririto Francois and I'm Also Coding in C++, C#, Ren'Py, Python, HTML, JavaSc
 ## Donation
 
 [SubscribeStar](https://www.subscribestar.com/riritofrancois)
+
+**MONERO:** XMR: 42ESbxeKM9eMr5FD1MXZPWWYsgrTqw4MZb6BdA6XCmqUJnn98xsFT6ocWW3TEwoj6rFr5t84dAXXqbEEp4disGCr54ijfrk
