@@ -1,4 +1,4 @@
-## I'm Now Available For Hire!!!(If you wanted to hire me, pls write in my email: riritoninigaya@hotmail.com
+## I'm Now Available For Hire!!!(If you wanted to hire me, pls write in my email: riritoninigaya@hotmail.com)
 
 
 <div align="center">
