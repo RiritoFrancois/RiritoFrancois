@@ -20,11 +20,7 @@ I'm Ririto Ninigaya and I'm Also Coding in C++, C#, Ren'Py, Python, HTML, JavaSc
 
 # Stats
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api?username=RiritoNinigaya&hide=contribs,prs,issues&theme=prussian&bg_color=79139c&show_icons=true&hide_border=false&include_all_commits=true&border_color=aca1ff)" alt="RiritoFrancois's Github Stats"></img>
-
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiritoNinigaya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Metrics](https://metrics.lecoq.io/RiritoNinigaya?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=Europe%2FKyiv)
 
 ## My Github Metrics
 
