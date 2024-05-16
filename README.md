@@ -9,6 +9,7 @@
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RiritoNinigaya" alt="RiritoNinigaya" /></a> </p>
 
+<p> <img src="https://komarev.com/ghpvc/?username=RiritoNinigaya&label=Profile%20views&color=478f45&style=flat" alt="RiritoNinigaya" /> </p>
 
 [My Email](mailto:riritoninigaya@hotmail.com)
 
